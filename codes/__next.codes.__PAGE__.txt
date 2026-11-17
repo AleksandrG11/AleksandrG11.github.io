@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/33y--n163uesq.js"
+3:I[38247,["$2"],"Header"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[22016,["$2"],""]
+d:"/_next/static/chunks/39izc31-5kk76.js"
+e:I[14779,["$2","$d"],"CodesExplorer"]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+:HL["/_next/static/chunks/0f-bjlj3at9sz.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"subhero","children":["$","div",null,{"className":"container","children":[["$","span",null,{"className":"eyebrow","children":"SEARCH / SAVE / COPY"}],["$","h1",null,{"children":["THE CODE",["$","br",null,{}],["$","em",null,{"children":"DATABASE."}]]}],["$","p",null,{"children":[30," sourced reference codes. Search by game, effect or exact entry."]}]]}]}],["$","section",null,{"className":"container section","children":["$","$Le",null,{}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/39izc31-5kk76.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$8"}}]]
+9:[["children",{"s":"codes","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f-bjlj3at9sz.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/33y--n163uesq.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"className":"content-page","children":["$","section",null,{"className":"container","children":[["$","span",null,{"className":"eyebrow","children":"404 / MISSING"}],["$","h1",null,{"children":["LOST",["$","br",null,{}],["$","em",null,{"children":"SIGNAL."}]]}],["$","$L6",null,{"href":"/","className":"primary-btn","children":"BACK TO INDEX ↗"}]]}]}],[]]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","h2",null,{"children":["KNOW",["$","br",null,{}],"THE ",["$","em",null,{"children":"CODE."}]]}],["$","p",null,{"children":"An independent editorial library of built-in single-player game cheats and guides. No third-party cheat software or multiplayer exploits are distributed."}]]}],["$","div",null,{"children":[["$","strong",null,{"children":"EXPLORE"}],["$","$L6",null,{"href":"/games","children":"Game directory"}],["$","$L6",null,{"href":"/codes","children":"All codes"}],["$","$L6",null,{"href":"/guides","children":"Walkthrough guides"}],["$","$L6",null,{"href":"/tools","children":"Code deck"}]]}],["$","div",null,{"children":[["$","strong",null,{"children":"NETWORK"}],["$","span",null,{"className":"pending","children":["After Hours apparel"," — link pending"]}],["$","span",null,{"className":"pending","children":["Mission AI helper"," — link pending"]}]]}],["$","div",null,{"children":[["$","strong",null,{"children":"INFORMATION"}],["$","$L6",null,{"href":"/about","children":"About & methodology"}],["$","$L6",null,{"href":"/legal","children":"Legal & privacy"}],["$","span",null,{"children":"Sources linked per game"}]]}]]}],["$","div",null,{"className":"footer-base","children":[["$","span",null,{"children":"© 2026 CODEINDEX — INDEPENDENT EDITORIAL PROJECT"}],["$","span",null,{"children":"NOT AFFILIATED WITH ROCKSTAR GAMES OR TAKE-TWO"}]]}]]}]}]]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Search All Cheat Codes | CODEINDEX"}],["$","meta","1",{"name":"description","content":"Search sourced GTA V, Vice City and San Andreas single-player PC cheat codes by effect, category and game."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"CODEINDEX — Know the code"}],["$","meta","4",{"property":"og:description","content":"A sourced, searchable single-player game cheat library."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"CODEINDEX — Know the code"}],["$","meta","8",{"name":"twitter:description","content":"A sourced, searchable single-player game cheat library."}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$8"}},"a":"$@18","u":"$@19","b":"yfGqFOMEWMpP9FXRzcOpQ"}
+11:null
+8:300
+19:true
+8:C
+18:0
+a:"$undefined"
+7:"$undefined"
+17:"$undefined"
+12:"$undefined"
