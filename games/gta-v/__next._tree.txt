@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/0z0kdl4uqvzoo.css","style"]
+:HL["/_next/static/chunks/24sixbbsjyiur.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"gta-v","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"games","h":131168,"c":"$Q2"}]]
-0:{"b":"Cx36vi8auVjdGDjbw-LfZ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"B73qnx_IPvYM8F1kxFZo6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
